@@ -1,0 +1,2 @@
+# BinaryNumbersAdressing
+In this work I am going to establish some classes and operators which can be used for operations on binary numbers and addressing. I wrote a C++ program that utilizes operator overloading which appreciates the ability to program using notation closer to the target domain. Also, I established a class which can be used for arithmetic operations on binary numbers as well as IPv4, where computational representations of mathematical objects are manipulated with the same syntax as on paper.
